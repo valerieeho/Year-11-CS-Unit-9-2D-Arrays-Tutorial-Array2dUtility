@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1678264071021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed tests for methods average, allPositive, rowSums, and colSums.">
+      <option name="closed" value="true" />
+      <created>1745899786514</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745899786514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
